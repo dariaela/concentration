@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F56FD88-CFBC-4746-A762-77C77F08CB1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8115235C-91EF-490D-BFC8-452993A8F015"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "concenration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "flipCount"
+            landmarkType = "24">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "8115235C-91EF-490D-BFC8-452993A8F015 - 32979dde26567dc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "concenration.ViewController.flipCountLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "concenration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DariaEla/Projects/concenration/concenration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "8115235C-91EF-490D-BFC8-452993A8F015 - 95e1f2f7244abbe8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "concenration.ViewController.flipCountLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "concenration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DariaEla/Projects/concenration/concenration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "8115235C-91EF-490D-BFC8-452993A8F015 - fb2b774e4a253ed9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "concenration.ViewController.flipCountLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "concenration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DariaEla/Projects/concenration/concenration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "8115235C-91EF-490D-BFC8-452993A8F015 - 748fdf0506c8e3d2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "concenration.ViewController.flipCountLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "concenration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DariaEla/Projects/concenration/concenration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8115235C-91EF-490D-BFC8-452993A8F015 - 1f68d466fad61276"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "concenration.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; concenration.ViewController"
+                  moduleName = "concenration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DariaEla/Projects/concenration/concenration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "8115235C-91EF-490D-BFC8-452993A8F015 - f6f1a5bebc2d9e40"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "concenration.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;concenration.ViewController&gt;"
+                  moduleName = "concenration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DariaEla/Projects/concenration/concenration/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
